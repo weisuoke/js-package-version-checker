@@ -12,6 +12,7 @@ specifiers:
   react-dom: ^18.2.0
   react-use: ^17.4.0
   rollup: ^3.10.0
+  typescript: ^4.9.4
   vite: ^4.0.4
   vue: ^3.2.45
   webpack: ^5.75.0
@@ -28,6 +29,7 @@ dependencies:
   react-dom: 18.2.0_react@18.2.0
   react-use: 17.4.0_biqbaboplfbrettd7655fr4n2y
   rollup: 3.10.0
+  typescript: 4.9.4
   vite: 4.0.4
   vue: 3.2.45
   webpack: 5.75.0
