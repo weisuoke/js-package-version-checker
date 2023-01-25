@@ -13,6 +13,8 @@
     "@builder.io/qwik": "^0.16.2",
     "@builder.io/qwik-city": "0.1.0-beta9",
     "@mui/material": "^5.11.4",
+    "@tanstack/react-location": "^3.7.4",
+    "@tanstack/react-router": "0.0.1-beta.48",
     "@tarojs/taro": "^3.5.11",
     "ahooks": "^3.7.4",
     "antd": "^5.1.5",
@@ -32,6 +34,8 @@
     "typescript": "^4.9.4",
     "vite": "^4.0.4",
     "vue": "^3.2.45",
-    "webpack": "^5.75.0"
+    "webpack": "^5.75.0",
+    "zustand": "^4.3.2",
+    "zustand-signal": "^0.5.1"
   }
 }
